@@ -1,5 +1,5 @@
-# genaia-eks
-genaia-eks
+# EKS Deploy from Terraform
+EKS Cluster
 
 Este Repositorio contiene los archivos de IaC (Infraestructure as Code) y Ansible, con los que fue desplegado el repositorio.
 
